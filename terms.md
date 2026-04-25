@@ -1,6 +1,6 @@
 # Terms of Use — Digest
 
-**Last updated: April 18, 2026**
+**Last updated: April 25, 2026**
 
 By using Digest ("the app"), you agree to these terms. If you don't agree, please don't use the app.
 
@@ -36,10 +36,11 @@ Digest references other apps and services (YouTube, Reddit, X/Twitter, Safari, W
 
 ## Subscriptions and refunds
 
-- Free tier: 30 summaries per month, reset on the 1st of each month
-- Pro tier: subscription pricing shown in the app; varies by region
-- Subscriptions auto-renew unless canceled at least 24 hours before the renewal date
-- Manage or cancel anytime in iOS Settings > Apple ID > Subscriptions
+- **Free tier:** 30 summaries per month, reset on the 1st of each month.
+- **Pro tier (Digest Pro):** monthly or annual auto-renewing subscription. Pricing is shown in the app and on the App Store; it varies by region.
+- **Payment will be charged to your Apple ID account at confirmation of purchase.**
+- **Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.** Your account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected plan.
+- You can manage your subscription and turn off auto-renewal at any time in iOS Settings > Apple ID > Subscriptions.
 - **Refunds are handled by Apple, not Digest.** Request refunds at reportaproblem.apple.com.
 
 ## Service availability
@@ -58,7 +59,7 @@ Digest is provided "as is" without warranties of any kind. We are not liable for
 
 ## Termination
 
-We may suspend or terminate your account if you violate these terms. You may delete your account at any time by contacting us.
+We may suspend or terminate your account if you violate these terms. You can delete your account and all associated data at any time from within the app at Settings > Delete Account.
 
 ## Changes
 
@@ -66,4 +67,4 @@ We may update these terms. Significant changes will be announced in-app. Continu
 
 ## Contact
 
-For questions, email **[contact email]**.
+For questions, email **digest.app.support@gmail.com**.

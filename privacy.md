@@ -1,6 +1,6 @@
 # Privacy Policy — Digest
 
-**Last updated: April 18, 2026**
+**Last updated: April 25, 2026**
 
 Digest ("the app", "we", "us") is an iOS application that summarizes content you share using AI. This Privacy Policy explains what we collect, how we use it, and your rights.
 
@@ -39,7 +39,7 @@ We collect the minimum information needed to provide the service.
 
 To provide the service, we rely on the following categories of processors:
 
-- **AI model providers** (currently Google Gemini) — the content you share is sent to an AI provider to generate summaries. AI providers do not retain your content beyond what is necessary to return a response.
+- **AI model providers** (currently Google Gemini) — the content you share is sent to an AI provider to generate summaries. AI providers process content according to their own data handling and retention policies.
 - **Apple** — Sign in with Apple and Push Notification delivery
 - **Payment and subscription management provider** — verifies subscription status
 - **Cloud infrastructure, security, and error-monitoring providers** — host our servers, route requests, and collect anonymous crash reports
@@ -60,8 +60,8 @@ Each processor receives only the minimum data required to perform its function. 
 
 - Delete individual items from within the app
 - Clear your local cache in Settings > About > Clear Cache
-- Request account deletion by contacting us
-- Request a copy of your data
+- Delete your account and all associated data at any time from Settings > Delete Account
+- Contact us for any other privacy requests
 
 ## Children
 
@@ -73,4 +73,4 @@ We may update this policy. The "Last updated" date will change. Significant upda
 
 ## Contact
 
-For privacy requests, email **[contact email]**.
+For privacy requests, email **digest.app.support@gmail.com**.
