@@ -1,0 +1,26 @@
+privacy.md
+  1c181bbad315db13 3
+terms.md
+  1c181bbad315db13 3,52-55,63-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "689d4d333bdb32f8a3033fb759d93a6e4c9cb168",
+  "prompts": {
+    "1c181bbad315db13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52e3052b-71a0-4cee-abd5-4c82110666bd",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Yusuf Yazıcı",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 2,
+      "accepted_lines": 20,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/cbba2e742946e55c2016c93230bd0da5f0abaa70eaf3ee7cb4ecb79cc66766e1"
+    }
+  }
+}
