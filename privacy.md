@@ -1,6 +1,6 @@
 # Privacy Policy — Digest
 
-**Last updated: April 25, 2026**
+**Last updated: May 3, 2026**
 
 Digest ("the app", "we", "us") is an iOS application that summarizes content you share using AI. This Privacy Policy explains what we collect, how we use it, and your rights.
 
