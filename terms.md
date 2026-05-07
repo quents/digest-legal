@@ -14,7 +14,7 @@ Digest acts as an automated tool and technical intermediary. Summaries are deriv
 
 - You must sign in with Apple to use Digest.
 - You are responsible for keeping your device secure.
-- You must be at least 13 years old to use Digest.
+- You must be at least 13 years old to use Digest. If the laws of your country require a higher minimum age for digital services to be provided without parental consent (for example, 16 in several EU member states under GDPR), you must meet that higher age requirement instead. Parents or guardians who allow younger users to access Digest accept responsibility for that use.
 
 ## Acceptable use
 
@@ -93,7 +93,7 @@ Digest is provided "as is" without warranties of any kind. We are not liable for
 
 Digest does not host original third-party content. We process URLs and files that users share through the iOS Share Extension, generate summaries via AI, and store the summaries plus minimal metadata (title, source URL, thumbnail) for the user's personal access only. Summaries are not publicly displayed and are accessible only to the user who created them.
 
-If you are a content creator or rights holder and believe a summary, thumbnail, or metadata stored in Digest infringes your rights, or if you wish to report abuse, defamation, harassment, or other unlawful content created or distributed via Digest, please email **digest.app.support@gmail.com** (legal and abuse contact) or **digest.app.support@gmail.com** with:
+If you are a content creator or rights holder and believe a summary, thumbnail, or metadata stored in Digest infringes your rights, or if you wish to report abuse, defamation, harassment, or other unlawful content created or distributed via Digest, please email **digest.app.support@gmail.com** (legal and abuse contact) with:
 
 1. The original content URL
 2. Description of the infringement or abuse (which user-generated summary, what right or law is affected)
@@ -109,12 +109,23 @@ Depending on where you reside, you have additional legal rights:
 - **KVKK (Türkiye, Law No. 6698)** — you may request access to, correction of, deletion of, or restriction of processing of your personal data, and you may lodge a complaint with the Turkish Personal Data Protection Authority (Kişisel Verileri Koruma Kurumu, KVKK).
 - **GDPR (EU/EEA, Regulation 2016/679)** — you have the rights of access, rectification, erasure ("right to be forgotten"), restriction of processing, data portability, and objection, and you may lodge a complaint with your national data protection authority.
 - **Digital Services Act (EU, Regulation 2022/2065)** — you may submit notices about allegedly illegal content using the contact addresses above. We will acknowledge receipt and decide on the notice without undue delay. Where we remove or restrict access to content, the affected user will be informed of the decision and the reasons for it where reasonably possible.
+- **CCPA / CPRA (California, USA)** — If you are a California resident you have the right to know what personal information we collect, request its deletion or correction, and opt out of any "sale" or "sharing" of your personal information. Digest does not sell your personal data to third parties and does not engage in cross-context behavioural advertising.
 
 To exercise any of these rights, contact us at the email addresses above. We will not retaliate against you for exercising a legal right.
 
 ## Termination
 
 We may suspend or terminate your account if you violate these terms. You can delete your account and all associated data at any time from within the app at Settings > Delete Account.
+
+## Apple App Store users
+
+You acknowledge that these terms are between you and Digest only, not with Apple Inc. Apple is not responsible for the app or its content. To the maximum extent permitted by applicable law, Apple has no warranty obligation whatsoever with respect to the app. Any claim relating to the app's failure to conform to any applicable warranty may be directed to Apple, and Apple will refund the purchase price (if any); to the maximum extent permitted by applicable law, Apple has no other warranty obligation. Apple and Apple's subsidiaries are third-party beneficiaries of these terms and, upon your acceptance, will have the right to enforce these terms against you as a third-party beneficiary.
+
+## Governing law and jurisdiction
+
+These terms are governed by the laws of the Republic of Turkey, without regard to conflict-of-law principles. Any dispute arising out of or in connection with these terms or your use of Digest is subject to the exclusive jurisdiction of the courts and enforcement offices of Istanbul, Turkey.
+
+Where local consumer-protection law in your country of residence grants you mandatory rights that cannot be waived by contract, those rights remain available to you. Nothing in this section limits your right to bring a claim before the consumer authorities or courts of your home country where local law gives you that right.
 
 ## Changes
 
