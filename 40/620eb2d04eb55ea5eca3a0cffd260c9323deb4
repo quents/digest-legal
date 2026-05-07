@@ -1,0 +1,22 @@
+terms.md
+  s_72dd3cd916ed08::t_43ae5af305058e 27-51
+  s_72dd3cd916ed08::t_55bb22f913ac7c 3
+  s_72dd3cd916ed08::t_7e690ee823a111 11-12
+  s_72dd3cd916ed08::t_cb4d87c069247c 96,99-111,113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "40620eb2d04eb55ea5eca3a0cffd260c9323deb4",
+  "prompts": {},
+  "sessions": {
+    "s_72dd3cd916ed08": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9f37195b-1b33-4508-9053-067291cf4f15",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Yusuf Yazıcı <yusufyazici@outlook.com>"
+    }
+  }
+}
