@@ -1,6 +1,6 @@
 # Terms of Use — Digest
 
-**Last updated: May 7, 2026**
+**Last updated: October 30, 2026**
 
 By using Digest ("the app"), you agree to these terms. If you don't agree, please don't use the app.
 
@@ -8,53 +8,31 @@ By using Digest ("the app"), you agree to these terms. If you don't agree, pleas
 
 Digest is an iOS application that generates AI summaries of content you share (URLs, PDFs, images, text). Summaries are produced by Google's Gemini AI via API.
 
-Digest acts as an automated tool and technical intermediary. Summaries are derived from content at URLs or files **you choose to submit**. We do not author, curate, verify, or endorse the source material, and a summary should not be read as a statement of fact by Digest or as endorsement of the views, claims, or accuracy of the underlying content.
-
 ## Your account
 
 - You must sign in with Apple to use Digest.
 - You are responsible for keeping your device secure.
-- You must be at least 13 years old to use Digest. If the laws of your country require a higher minimum age for digital services to be provided without parental consent (for example, 16 in several EU member states under GDPR), you must meet that higher age requirement instead. Parents or guardians who allow younger users to access Digest accept responsibility for that use.
+- You must be at least 13 years old to use Digest.
 
 ## Acceptable use
 
 You agree NOT to use Digest to:
-- Summarize illegal content
+- Summarize illegal content, including but not limited to child sexual abuse material, terrorism content, or content that promotes violence against individuals or protected groups
+- Summarize content that defames a person or organization
 - Circumvent paywalls or copyright protections
 - Attempt to reverse-engineer, decompile, or attack the service
 - Abuse the quota system (e.g., through multiple accounts)
 - Share content that violates another party's rights
-- Submit content that constitutes hate speech, harassment, threats, defamation, sexual content involving minors, or non-consensual intimate imagery
-- Submit content that targets, insults, or defames identifiable individuals or public officials in a manner unlawful under your local jurisdiction (including but not limited to Turkish Penal Code Articles 125 and 299)
 
-## Your responsibility for external sharing
+## AI-generated content disclaimer
 
-Digest displays summaries inside a private feed that only you can see. Digest also lets you export a summary as a PNG "share card" image so you can post it elsewhere (for example to Instagram, X, WhatsApp, or any other platform).
-
-**Once you export and share a summary outside Digest, you are solely responsible for that publication.** This includes responsibility for:
-- Whether you have the right to redistribute the underlying source material
-- Whether the content is lawful in the jurisdictions where you publish it
-- Compliance with the terms, community guidelines, and applicable laws of any platform you post to
-- Any defamation, privacy, intellectual property, or other claims arising from your republication
-
-Digest is the producer of the summarization tool, not the publisher of what you choose to post externally. The fact that the share card carries Digest branding does not make Digest the speaker, author, or distributor of the underlying claims.
-
-## Content moderation and right to refuse
-
-Digest applies automated and AI-based content checks before producing or allowing external export of a summary. We may, without prior notice and at our sole discretion:
-
-- Refuse to summarize a submitted URL or file
-- Block export of a share card or disable its external-sharing affordance
-- Remove a summary from your account
-- Suspend or terminate accounts that repeatedly attempt to process prohibited content
-
-These checks are imperfect. Their existence does not transfer responsibility for the underlying content from you to Digest, and the absence of a block does not constitute approval or endorsement of the content.
+Summaries are produced by an AI model. They may be incomplete, inaccurate, biased, or contain fabricated information ("hallucinations"). **Do not rely on Digest summaries for medical, legal, financial, safety-critical, or other decisions where accuracy matters.** Always verify against the original source before acting on a summary.
 
 ## Content and intellectual property
 
 - Summaries are automatically generated derivative works based on content you share. They do not represent original opinions.
 - **Original content remains owned by its creators.** Digest does not claim ownership of any content you share or its summaries.
-- We may remove content from your account upon a valid takedown request.
+- We may remove content from your account upon a valid takedown request — send takedown notices to digest.app.support@gmail.com identifying the item and the rights claim.
 - You are responsible for ensuring you have the right to share content with our AI service.
 
 ## Third-party trademarks
@@ -63,69 +41,42 @@ Digest references other apps and services (YouTube, Reddit, X/Twitter, Safari, W
 
 ## Subscriptions and refunds
 
-- **Free tier:** 30 summaries per month, reset on the 1st of each month.
+- **Free tier:** 10 summaries per month, reset on the 1st of each month.
+- **Fair use:** Pro includes up to 300 summaries per month, reset on the 1st, to keep the service fast for everyone.
 - **Pro tier (Digest Pro):** monthly or annual auto-renewing subscription. Pricing is shown in the app and on the App Store; it varies by region.
 - **Payment will be charged to your Apple ID account at confirmation of purchase.**
 - **Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.** Your account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected plan.
 - You can manage your subscription and turn off auto-renewal at any time in iOS Settings > Apple ID > Subscriptions.
 - **Refunds are handled by Apple, not Digest.** Request refunds at reportaproblem.apple.com.
 
-## Service availability
+## Service availability and modifications
 
 - We aim for high availability but do not guarantee uninterrupted service.
 - AI summary quality depends on third-party models and is not guaranteed.
 - Some content types (DRM-protected video, heavily JavaScript-rendered pages) may not be processable.
+- We reserve the right to modify, suspend, or discontinue features at any time. Material changes affecting paid subscribers will be communicated in-app.
 
-## AI-generated content disclaimer
+## Disclaimer of warranties
 
-Summaries in Digest are generated by third-party AI models. They may contain factual errors, omissions, misinterpretations, or fabricated details ("hallucinations"). Summaries are provided for personal informational convenience only and **must not be relied upon for legal, financial, medical, safety, or other consequential decisions**. Always verify critical information against the original source.
+Digest is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, accuracy, or non-infringement, to the maximum extent permitted by applicable law.
 
-## Disclaimer
+## Limitation of liability
 
-Digest is provided "as is" without warranties of any kind. We are not liable for:
-- Inaccuracies in AI-generated summaries
-- Data loss (back up important items yourself)
-- Downtime or service interruptions
-- Third-party content accessed through the app
-- Decisions made based on summary content
+To the maximum extent permitted by applicable law, our total cumulative liability to you for any claim arising out of or relating to Digest is limited to the greater of: (a) the amount you paid us for the service in the twelve (12) months preceding the claim, or (b) USD 50. We are not liable for indirect, incidental, consequential, special, or punitive damages, including but not limited to loss of data, profits, or business opportunity.
 
-## Copyright and takedown notices
+Some jurisdictions do not allow these limitations; in those jurisdictions our liability is limited to the smallest amount permitted by law.
 
-Digest does not host original third-party content. We process URLs and files that users share through the iOS Share Extension, generate summaries via AI, and store the summaries plus minimal metadata (title, source URL, thumbnail) for the user's personal access only. Summaries are not publicly displayed and are accessible only to the user who created them.
+## Indemnification
 
-If you are a content creator or rights holder and believe a summary, thumbnail, or metadata stored in Digest infringes your rights, or if you wish to report abuse, defamation, harassment, or other unlawful content created or distributed via Digest, please email **digest.app.support@gmail.com** (legal and abuse contact) with:
-
-1. The original content URL
-2. Description of the infringement or abuse (which user-generated summary, what right or law is affected)
-3. Your contact information and, if applicable, evidence of ownership or standing
-4. A statement that you have a good-faith belief the use is unauthorized or unlawful
-
-We will respond within 7 business days and remove the affected material from our systems where appropriate. We may also disable accounts that repeatedly trigger valid takedown or abuse notices.
-
-## Regulatory rights (KVKK, GDPR, DSA)
-
-Depending on where you reside, you have additional legal rights:
-
-- **KVKK (Türkiye, Law No. 6698)** — you may request access to, correction of, deletion of, or restriction of processing of your personal data, and you may lodge a complaint with the Turkish Personal Data Protection Authority (Kişisel Verileri Koruma Kurumu, KVKK).
-- **GDPR (EU/EEA, Regulation 2016/679)** — you have the rights of access, rectification, erasure ("right to be forgotten"), restriction of processing, data portability, and objection, and you may lodge a complaint with your national data protection authority.
-- **Digital Services Act (EU, Regulation 2022/2065)** — you may submit notices about allegedly illegal content using the contact addresses above. We will acknowledge receipt and decide on the notice without undue delay. Where we remove or restrict access to content, the affected user will be informed of the decision and the reasons for it where reasonably possible.
-- **CCPA / CPRA (California, USA)** — If you are a California resident you have the right to know what personal information we collect, request its deletion or correction, and opt out of any "sale" or "sharing" of your personal information. Digest does not sell your personal data to third parties and does not engage in cross-context behavioural advertising.
-
-To exercise any of these rights, contact us at the email addresses above. We will not retaliate against you for exercising a legal right.
+You agree to indemnify and hold Digest and its operator harmless from claims brought by third parties arising out of: (a) content you shared in violation of these terms or another party's rights; (b) your misuse of the service.
 
 ## Termination
 
 We may suspend or terminate your account if you violate these terms. You can delete your account and all associated data at any time from within the app at Settings > Delete Account.
 
-## Apple App Store users
+## Governing law
 
-You acknowledge that these terms are between you and Digest only, not with Apple Inc. Apple is not responsible for the app or its content. To the maximum extent permitted by applicable law, Apple has no warranty obligation whatsoever with respect to the app. Any claim relating to the app's failure to conform to any applicable warranty may be directed to Apple, and Apple will refund the purchase price (if any); to the maximum extent permitted by applicable law, Apple has no other warranty obligation. Apple and Apple's subsidiaries are third-party beneficiaries of these terms and, upon your acceptance, will have the right to enforce these terms against you as a third-party beneficiary.
-
-## Governing law and jurisdiction
-
-These terms are governed by the laws of the Republic of Turkey, without regard to conflict-of-law principles. Any dispute arising out of or in connection with these terms or your use of Digest is subject to the exclusive jurisdiction of the courts and enforcement offices of Istanbul, Turkey.
-
-Where local consumer-protection law in your country of residence grants you mandatory rights that cannot be waived by contract, those rights remain available to you. Nothing in this section limits your right to bring a claim before the consumer authorities or courts of your home country where local law gives you that right.
+These terms are governed by the laws of the Republic of Türkiye, without regard to its conflict-of-law principles. For users protected by mandatory consumer protection laws of their country of residence, those mandatory protections apply in addition to these terms.
 
 ## Changes
 
