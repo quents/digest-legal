@@ -1,6 +1,6 @@
 # Privacy Policy — Digest
 
-**Last updated: October 30, 2026**
+**Last updated: November 13, 2026**
 
 Digest ("the app", "we", "us") is an iOS application that summarizes content you share using AI. This Privacy Policy explains what we collect, how we use it, and your rights.
 
@@ -11,7 +11,7 @@ We collect the minimum information needed to provide the service.
 ### Account information
 - **Apple ID email** — only if you choose to share it during Sign in with Apple
 - **Display name** — optional, from Sign in with Apple
-- **User ID** — an anonymous identifier we generate to link your saved items to your account
+- **User ID** — a random identifier we generate to link your saved items to your account. It contains nothing about you, but it is attached to the crash reports and usage events described below
 
 ### Content you save
 - **URLs, text, images, and files you share to Digest** — processed and stored so we can show you the summaries
@@ -19,12 +19,13 @@ We collect the minimum information needed to provide the service.
 
 ### Technical data
 - **Push notification token** — only if you allow notifications
-- **Anonymous crash reports** — diagnostic data to improve the app
+- **Crash and error reports** — stack traces, device model, iOS and app version, language and time zone, linked to your user ID. They never contain the content you save
 - **Subscription status** — whether you have a free or pro subscription
-- **IP address** — temporarily processed by our servers and infrastructure providers when you make requests; not stored long-term
+- **Usage events** — what happens in the app (for example "app opened", "item saved", "summary ready", content type, subscription tier), linked to your user ID, never the content itself
+- **IP address** — processed by our servers and infrastructure providers when you make requests; not stored in our database. Our crash-reporting provider (Sentry) may derive an approximate country and city from it for a crash report; we do not use it for anything else
 
 ### What we do NOT collect
-- We do not collect your location
+- We do not collect your precise location (GPS)
 - We do not collect your contacts
 - We do not track you across other apps or websites
 - We do not sell your data
@@ -39,7 +40,8 @@ If you are in the European Union or United Kingdom, we process your personal dat
 - Process shared content with AI and return summaries to you
 - Deliver push notifications when a summary is ready
 - Verify your subscription status
-- Diagnose and fix crashes (anonymous only)
+- Diagnose and fix crashes and errors
+- Understand how the app is used (which features, how often summaries fail) so we can improve it
 
 ## Third parties that process your data
 
@@ -54,8 +56,8 @@ To provide the service, we rely on the following processors. Each receives only 
 | **Hetzner (via Coolify)** | Application hosting | All request data passes through this host |
 | **Jina AI (Reader API)** | Read web pages that block direct access | The address (URL) of the page you saved |
 | **Webshare** | Proxy network used to fetch YouTube and Reddit pages | The address (URL) being fetched, no account data |
-| **Sentry** | Anonymous crash and error reporting | Crash stack traces, device model, OS version (no content) |
-| **PostHog** | Anonymous product analytics | Aggregated event counts, no content |
+| **Sentry** | Crash and error reporting | User ID, stack traces, device model, OS and app version, locale, time zone, IP address (no content) |
+| **PostHog** | Product analytics | User ID, usage events, subscription tier, device model, OS and app version (no content, no location) |
 
 We may change processors over time to improve the service; we will update this policy if the categories of processing change materially.
 
@@ -74,10 +76,10 @@ We are based in Türkiye. The processors listed above operate servers in the Eur
 - **Saved items and summaries** — kept until you delete them or delete your account
 - **Subscription history** — kept until you delete your account (required for billing dispute resolution)
 - **Push notification token** — kept until you uninstall the app or disable notifications
-- **Crash logs** — purged after 90 days
-- **Aggregated analytics** — retained indefinitely in non-identifying form
+- **Crash and error reports** — deleted by Sentry after at most 90 days
+- **Usage events** — kept by PostHog for up to 12 months
 
-When you delete your account, all data associated with you is removed from our database within 30 days, except aggregated analytics that no longer identifies you.
+When you delete your account, all data associated with you is removed from our database within 30 days. Crash reports and usage events already sent expire on the schedule above; once your account is gone, the random user ID they carry no longer points to anyone.
 
 ## Your rights
 
